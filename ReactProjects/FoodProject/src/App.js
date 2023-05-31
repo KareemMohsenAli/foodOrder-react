@@ -22,7 +22,7 @@ function App() {
       </main>
 
       {/* //working with some movies */}
-      <ListMovies />
+      {/* <ListMovies /> */}
       {/* //working with some movies */}
     </CartProvider>
   );
